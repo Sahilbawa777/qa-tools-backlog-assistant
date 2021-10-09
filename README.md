@@ -1,7 +1,7 @@
 # Backlog Status
 
 **Latest Run:** 2021-10-09 03:02:00 GMT
-*(Please refresh to see latest results)*
+*(Please refresh to get the latest result)*
 
 Backlog Query | Number of Issues | Limits | Status
 --- | --- | --- | ---
